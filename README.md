@@ -10,3 +10,8 @@ ln -sv ~/Projects/dotfiles/.dotfile_from_this_repo ~
 '''
 
 If you use this command, everything should always be up to date. Have fun with my configs.
+
+
+### Source for structure of this repository
+
+- [Getting Started With Dotfiles - Medium](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
