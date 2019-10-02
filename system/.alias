@@ -11,6 +11,7 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias scom="cd ~/Documents/GitProjects/Work"
 alias dotf="cd ~/Documents/GitProjects/GitHub/dotfiles"
+alias ghub="cd ~/Documents/GitProjects/GitHub/"
 
 
 
