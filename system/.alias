@@ -1,0 +1,15 @@
+
+
+# Shortcuts
+alias l="ls -la"   # List in long format, include dotfiles
+alias ld="ls -ld"  # List in long format, only directories
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# Swisscom
+alias adboxn="python ~/Documents/GitProjects/Work/stb_utilities/scripts/python/main.py 192.168.1.114:5555"
+alias boxconnectn="adb connect 192.196.1.114:5555"
+
+
+# Autonomous Plant
