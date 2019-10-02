@@ -101,11 +101,3 @@ source $ZSH/oh-my-zsh.sh
 
 # Setting up alias sourcing
 source $HOME/.alias
-
-
-
-
- 
-
-
-
